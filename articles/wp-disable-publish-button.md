@@ -98,8 +98,7 @@ function disable_publish_button_if_category_archive_content()
 Snow Monkey Archive Contentの設定に含まれているページのIDと、表示しているページのIDを照らし合わせて、公開ボタンの表示をコントロールしています。
 
 また、[disablePublishSidebar()](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-editor/#disablepublishsidebar)オプションを無効にしないと、[lockPostSaving()](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-editor/#lockpostsaving)が働きませんでしたので、無効にしています。
-[createNotice()]()https://developer.wordpress.org/block-editor/how-to-guides/notices/#notices-in-the-block-editorを使ってのお知らせは表示しなくても良いとは思いますが、「なぜ公開ボタンを押せないの？」という混乱を防ぐために表示しています。ヒトは忘れる生き物だから。
+[createNotice()](https://developer.wordpress.org/block-editor/how-to-guides/notices/#notices-in-the-block-editor)を使ってのお知らせは表示しなくても良いとは思いますが、「なぜ公開ボタンを押せないの？」という混乱を防ぐために表示しています。ヒトは忘れる生き物だから。
 
 ## ひとりごと
-ヘッドレスではないWordPressは、Snow Monkey がないとかなりキツイです（個人の感想です）。
-いつもアップデートいただき、本当にありがとうございます。
+ヘッドレスではないWordPressは、Snow Monkey ありきで制作しています（個人の感想です）。 いつもアップデートいただき、本当にありがとうございます。
