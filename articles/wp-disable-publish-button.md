@@ -15,7 +15,7 @@ WordPress テーマ Snow Monkey の別売アドオン [Snow Monkey Archive Conte
 ## 気をつけなくても良いように、カスタマイズしてみよう
 「公開ボタンを押さないでください」と納品先にアナウンスするよりも、Snow Monkey Archive Contentで割り当てられている固定ページに関しては、 **公開ボタンを押せなくする方が親切** だと思いました🙈
 
-この記事では下記の環境でカスタマイズしています。
+この記事では下記の環境にてカスタマイズしています。
 - WordPress 5.9.1
 - Snow Monkey 16.1.3
 - Snow Monkey Archive Content 1.0.5
