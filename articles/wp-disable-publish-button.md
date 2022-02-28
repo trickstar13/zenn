@@ -101,4 +101,5 @@ Snow Monkey Archive Contentの設定に含まれているページのIDと、表
 [createNotice()](https://developer.wordpress.org/block-editor/how-to-guides/notices/#notices-in-the-block-editor)を使ってのお知らせは表示しなくても良いとは思いますが、「なぜ公開ボタンを押せないの？」という混乱を防ぐために表示しています。ヒトは忘れる生き物だから。
 
 ## ひとりごと
-ヘッドレスではないWordPressは、Snow Monkey ありきで制作しています（個人の感想です）。 いつもアップデートいただき、本当にありがとうございます。
+ヘッドレスではないWordPressは、Snow Monkey ありきで制作しています。もう Snow Monkey なしでは生きていけない。  
+いつもアップデートいただき、本当にありがとうございます。
