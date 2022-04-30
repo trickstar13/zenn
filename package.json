@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/trickstar13/docs#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.107"
+    "zenn-cli": "^0.1.109"
   }
 }
