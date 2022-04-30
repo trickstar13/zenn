@@ -9,4 +9,8 @@ chapters:
   - pricing
   - join
   - dashboard
-#  - design-editor
+  - grasp-editor
+  - edit-image
+  - change-text
+  - edit-cms
+  - edit-textdesign
