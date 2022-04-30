@@ -1,0 +1,10 @@
+title: "ノーコードWebサイト制作ツール STUDIOについての私見"
+summary: "STUDIOの使い方について、愛と偏見に満ちた私見を公開します。STUDIOは進化が早いので、ここに書かれている内容はすでに古くなっている可能性があります。あらかじめご了承ください。"
+topics: ["STUDIO","nocode"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - first
+  - pricing
+  - editor-cms
