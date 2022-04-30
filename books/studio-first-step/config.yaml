@@ -1,5 +1,5 @@
-title: "ノーコードWebサイト制作ツール STUDIOについての私見"
-summary: "STUDIOの使い方について、愛と偏見に満ちた私見を公開します。STUDIOは進化が早いので、ここに書かれている内容はすでに古くなっている可能性があります。あらかじめご了承ください。"
+title: "ノーコードWebサイト制作ツール STUDIO入門（執筆途中）"
+summary: "STUDIOの使い方について、愛と偏見に満ちた私見を公開します。STUDIOはアップtデートが早いので、ここに書かれている内容はすでに古くなっている可能性があります。なお、5/20にSTUDIO 4.0が発表される予定があり、その時点で確実に古くなる予定です。あらかじめご了承ください。"
 topics: ["STUDIO","nocode"]
 published: false
 price: 0 # 有料の場合200〜5000
@@ -9,3 +9,4 @@ chapters:
   - pricing
   - join
   - dashboard
+#  - design-editor
