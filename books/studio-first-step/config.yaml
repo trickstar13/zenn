@@ -3,7 +3,7 @@ summary: "STUDIOの使い方について、愛と偏見に満ちた私見を公�
 topics: ["STUDIO","nocode"]
 published: true
 price: 0 # 有料の場合200〜5000
-toc_depth: 1
+toc_depth: 2
 # 本に含めるチャプターを順番に並べましょう
 chapters:
   - first
