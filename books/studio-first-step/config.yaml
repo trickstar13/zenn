@@ -11,7 +11,7 @@ chapters:
   - join
   - dashboard
   - grasp-editor
-  #- edit-image
+  - edit-image
   #- edit-text
   #- edit-cms
   #- change-text-design
