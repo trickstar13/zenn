@@ -75,6 +75,10 @@ https://www.youtube.com/watch?v=0YO8EZzQCzQ
 ![スクリーンショット](/images/studio-first-step/grasp-editor-14.png)
 *削除ボタン*
 
+## 操作を取り消す／元に戻るには
+
+## ページをバックアップしよう
+
 ## ヘルプ！
 画面右下の「？」ボタンをクリックすると、STUDIOのヘルプページを検索できたり、チャットで問い合わせられます。
 ![スクリーンショット：ページ一覧](/images/studio-first-step/grasp-editor-10.png  =200x)
