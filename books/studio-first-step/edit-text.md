@@ -11,10 +11,10 @@ https://youtu.be/ONvN99M1BYU
 テキストボックスの中の、文章を書き換えてみましょう。 作業するときはレイヤーパネルを開いておくと便利です。
 
 書き換えたい文章のあたりをクリックしていきます。クリックするたびにレイヤーパネルのレイヤーがが開いていくのがわかります。
-![スクリーンショット](/images/studio-first-step/edit-text-02.png)
+![スクリーンショット](/images/studio-first-step/edit-text-02-2.png)
 
 ボックスを**ダブルクリック、もしくはキーボードでエンターキー**を押すと編集できるようになります。
-![スクリーンショット](/images/studio-first-step/edit-text-02.png)
+![スクリーンショット](/images/studio-first-step/edit-text-02-2.png)
 
 ---
 
@@ -25,12 +25,12 @@ https://youtu.be/ONvN99M1BYU
 リッチテキストボックスを使えば、**文章の一部を太字にしたり、リンクを張ったり、リスト**などのスタイルで文章を装飾できます。
 
 追加パネルから【リッチテキストボックス】を選ぶと挿入できます。
-![スクリーンショット](/images/studio-first-step/edit-text-05.png)
+![スクリーンショット](/images/studio-first-step/edit-text-05-2.png)
 
 リッチテキストボックスをダブルクリックするか、エンターキーを押すと編集できます。
 文章の一部を装飾するには、**装飾したい部分をドラッグ**して、リッチテキストメニューから内容を選びます。
 
-![スクリーンショット](/images/studio-first-step/edit-text-06.png)
+![スクリーンショット](/images/studio-first-step/edit-text-06-2.png)
 *リッチテキストメニュー*
 
 - B: 太字
@@ -41,7 +41,7 @@ https://youtu.be/ONvN99M1BYU
 - リンク：テキストリンク
 
 左のチップを選択すると、スタイルの種類や、見出しレベルを変更できます。
-![スクリーンショット](/images/studio-first-step/edit-text-08.png)
+![スクリーンショット](/images/studio-first-step/edit-text-08-2.png)
 
 - h1〜h3: 見出し
 - ul: リスト（順序なしリスト）
@@ -50,7 +50,7 @@ https://youtu.be/ONvN99M1BYU
 - hr: 水平線
 
 リッチテキストボックスの中でエンターキーを押すと、左に【+】のチップが現れます。このチップからもスタイルを選択できます。
-![スクリーンショット](/images/studio-first-step/edit-text-09.png)
+![スクリーンショット](/images/studio-first-step/edit-text-09-2.png)
 
 リッチテキストボックス内では、マークダウンも使えます。[^1]
 
@@ -75,7 +75,7 @@ https://youtu.be/wGQH31djSxE
 ページ設定パネルでは、今開いているページ固有の設定を変更できます。 隣のサイト設定パネルでは、ウェブサイト全体の設定を変えられます。 二つとも入力している場合は、サイト設定よりもページ固有の設定の内容がそれぞれのページでは優先して表示されます。
 まずはサイト設定から、サイト全体の情報を設定します。
 
-![スクリーンショット](/images/studio-first-step/edit-text-12.png)
+![スクリーンショット](/images/studio-first-step/edit-text-12-2.png)
 *ページとサイトの設定パネル*
 
 ### サイト設定
@@ -96,7 +96,7 @@ https://youtu.be/wGQH31djSxE
 
 サイト全体の設定が終わったら、ページ固有の設定をします。
 
-![スクリーンショット](/images/studio-first-step/edit-text-12.png)
+![スクリーンショット](/images/studio-first-step/edit-text-12-2.png)
 *ページ設定パネル*
 
 ### ページ設定
