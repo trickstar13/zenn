@@ -3,7 +3,7 @@ title: "いま開いているページをSTUDIOで即編集するブックマー
 emoji: "🔖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [STUDIO,ブックマークレット]
-published: false
+published: true
 ---
 Chromeで開いているページをSTUDIOで編集できるブックマークレットを作りました。 デザインエディタで作られているページなら、すぐに編集画面に飛べます。階層が深いサイトを制作している場合に特に便利です。
 （CMSの動的ページには非対応です）
