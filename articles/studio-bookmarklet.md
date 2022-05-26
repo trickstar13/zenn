@@ -8,6 +8,12 @@ published: true
 Chromeで開いているSTUDIO製のページから、ワンクリックで編集画面に行けるブックマークレットを作りました。 デザインエディタで作られているページなら、すぐに編集画面に飛べます。階層が深いサイトを制作している場合に特に便利です。
 （CMSの動的ページには非対応です）
 
+:::message
+2022/05/26追記. 
+[STUDIO製のページをすぐにデザインエディタ&CMSで開けるChrome拡張機能を制作・公開しました。](https://chrome.google.com/webstore/detail/edit-in-studio/lehgnkcjofngfjmcgemkadekffebkpcb?hl=ja&authuser=0)
+ブックマークレット版よりも高機能で、事前の設定なくプロジェクトを開けるほか、CMSの動的ページにも対応しています。よろしければChrome拡張の方をお使いください。
+:::
+
 ## 何ができるのか
 https://youtu.be/nPRuLPfmmQw
 ※無音動画
