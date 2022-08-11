@@ -2,6 +2,7 @@
 
 * npx zenn preview
 * [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+* [📘 ZennのMarkdown記法一覧](https://zenn.dev/zenn/articles/markdown-guide)
 
 
 ## 記事の作成
