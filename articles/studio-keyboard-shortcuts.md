@@ -5,6 +5,8 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [STUDIO,ショートカット]
 published: true
 ---
+[This article is also available in English (dev.to)](https://dev.to/ayumisato/official-unofficial-studio-keyboard-shortcuts-list-ejd)
+
 STUDIOのエディタでは、キーボードショートカットが有効になっています。
 キーボードショートカットを活用すると、マウスやトラックパッド操作を減らすことができ、ページを効率良く構築できます。
 この記事では、公式＆非公式のショートカットをご紹介します。
