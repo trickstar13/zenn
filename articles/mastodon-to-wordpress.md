@@ -43,8 +43,10 @@ Mastodon からデータを取得するにあたり、アクセストークン�
 
 ## Google Apps Script のコード
 
-Google Apps Script にて、以下のコードの「main()」関数を実行します。
+Google Apps Script にて、以下のコードを記述します。
 移行先の Mastodon インスタンスの URL、取得したアクセストークン、移行先の WordPress サイトの URL を設定してください。
+「main()」関数を実行します。
+完了までには数分かかることがあります。
 実行時に、セキュリティの警告が出る場合は、許可してください。
 
 ```js
