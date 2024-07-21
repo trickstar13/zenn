@@ -93,7 +93,7 @@ function getUserId(instanceUrl, options) {
 // 全ての投稿を取得する関数
 function fetchAllPosts(instanceUrl, userId, options) {
   let posts = [];
-  let url = `${instanceUrl}/api/v1/accounts/${userId}/statuses`;
+  let url = `${instanceUrl}/api/v1/accounts/${userId}/statuses?exclude_replies=true&exclude_reblogs=true`;
   while (url) {
     const response = UrlFetchApp.fetch(url, options);
     const data = JSON.parse(response.getContentText());
@@ -201,11 +201,6 @@ function createWxrFile(posts, siteUrl) {
 
 // 個々の投稿をWXRアイテムに変換する関数
 function createWxrItem(post, index, siteUrl) {
-  // リプライやリブログの場合はスキップ
-  if (post.in_reply_to_id !== null || post.reblog !== null) {
-    return "";
-  }
-
   let content = post.content;
   const strippedContent = stripHtmlTags(post.content);
   // タイトルを設定（警告テキストがある場合は優先）
